@@ -1,3 +1,8 @@
  body{
     background-color: aquamarine;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+ }
+ img{
+   width: 45%px;
+   height: auto;
  }
